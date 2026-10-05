@@ -12,7 +12,6 @@ role: Business Development Executive @ Genedrift
 founder: Pharmalite.in | PharmaJobs | PharmaChat AI | PharmaPredict AI
 location: Kanpur, UP, India 🇮🇳
 email: sohanlalkush@hotmail.com
-phone: +91 81272 46983
 portfolio: https://sohanlal.pharmalite.in
 linkedin: https://in.linkedin.com/in/sohanlalkush
 github: https://github.com/Sohanlalkush
